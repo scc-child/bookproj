@@ -1,9 +1,3 @@
-{
-  "status": "OK",
-  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
-  "num_results": 15,
-  "last_modified": "2022-05-04T22:08:56-04:00",
-  "results": {
     "list_name": "Combined Print and E-Book Nonfiction",
     "list_name_encoded": "combined-print-and-e-book-nonfiction",
     "bestsellers_date": "2022-04-30",
@@ -977,7 +971,4 @@
         ],
         "book_uri": "nyt://book/200c300b-8cd0-50f7-98d9-91562d1ec47b"
       }
-    ],
-    "corrections": []
-  }
-}
+    
