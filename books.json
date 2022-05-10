@@ -1,974 +1,935 @@
-    "list_name": "Combined Print and E-Book Nonfiction",
-    "list_name_encoded": "combined-print-and-e-book-nonfiction",
-    "bestsellers_date": "2022-04-30",
-    "published_date": "2022-05-15",
-    "published_date_description": "latest",
-    "next_published_date": "",
-    "previous_published_date": "2022-05-08",
-    "display_name": "Combined Print & E-Book Nonfiction",
-    "normal_list_ends_at": 15,
-    "updated": "WEEKLY",
-    "books": [
-      {
-        "rank": 1,
-        "rank_last_week": 0,
-        "weeks_on_list": 1,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "0063037327",
-        "primary_isbn13": "9780063037328",
-        "publisher": "HarperOne",
-        "description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
-        "price": "0.00",
-        "title": "FINDING ME",
-        "author": "Viola Davis",
-        "contributor": "by Viola Davis",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
-        "book_image_width": 331,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/0063037327?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "0063037327",
-            "isbn13": "9780063037328"
-          },
-          {
-            "isbn10": "0063037335",
-            "isbn13": "9780063037335"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/0063037327?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9780063037328?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063037328"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFINDING%252BME%252FViola%252BDavis%252F9780063037328&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFINDING%252BME%252BViola%252BDavis"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063037328&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFINDING%2BME"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063037328%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFINDING%2BME%2BViola%2BDavis%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/ffe47bbb-a766-5337-9268-4480e3c9e4b9"
-      },
-      {
-        "rank": 2,
-        "rank_last_week": 0,
-        "weeks_on_list": 1,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "0593138090",
-        "primary_isbn13": "9780593138090",
-        "publisher": "Crown",
-        "description": "This follow-up to “The Diana Chronicles” details how the royal family reinvented itself after the death of Princess Diana.",
-        "price": "0.00",
-        "title": "THE PALACE PAPERS",
-        "author": "Tina Brown",
-        "contributor": "by Tina Brown",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593138090.jpg",
-        "book_image_width": 329,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/0593138090?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "0593138090",
-            "isbn13": "9780593138090"
-          },
-          {
-            "isbn10": "0593138104",
-            "isbn13": "9780593138106"
-          },
-          {
-            "isbn10": "0593608658",
-            "isbn13": "9780593608654"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/0593138090?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9780593138090?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593138090"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BPALACE%252BPAPERS%252FTina%252BBrown%252F9780593138090&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BPALACE%252BPAPERS%252BTina%252BBrown"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593138090&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BPALACE%2BPAPERS"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593138090%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BPALACE%2BPAPERS%2BTina%2BBrown%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/00df1009-e6a5-5bd9-b180-351a709b35d4"
-      },
-      {
-        "rank": 3,
-        "rank_last_week": 1,
-        "weeks_on_list": 88,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "0143127748",
-        "primary_isbn13": "9780143127741",
-        "publisher": "Penguin",
-        "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
-        "price": "0.00",
-        "title": "THE BODY KEEPS THE SCORE",
-        "author": "Bessel van der Kolk",
-        "contributor": "by Bessel van der Kolk",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
-        "book_image_width": 128,
-        "book_image_height": 193,
-        "amazon_product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "https://www.nytimes.com/2018/10/18/books/review/how-to-rewire-your-traumatized-brain.html",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "0670785938",
-            "isbn13": "9780670785933"
-          },
-          {
-            "isbn10": "0143127748",
-            "isbn13": "9780143127741"
-          },
-          {
-            "isbn10": "1469092352",
-            "isbn13": "9781469092355"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127741"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252FBessel%252Bvan%252Bder%252BKolk%252F9780143127741&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252BBessel%252Bvan%252Bder%252BKolk"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780143127741&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780143127741%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2BBessel%2Bvan%2Bder%2BKolk%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e"
-      },
-      {
-        "rank": 4,
-        "rank_last_week": 0,
-        "weeks_on_list": 1,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "1250622794",
-        "primary_isbn13": "9781250622792",
-        "publisher": "Celadon",
-        "description": "A memoir by a former cold case investigator who worked on several notable cases, including the identification of the Golden State Killer.",
-        "price": "0.00",
-        "title": "UNMASKED",
-        "author": "Paul Holes",
-        "contributor": "by Paul Holes",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250622792.jpg",
-        "book_image_width": 336,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/1250622794?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "1250622794",
-            "isbn13": "9781250622792"
-          },
-          {
-            "isbn10": "1250622824",
-            "isbn13": "9781250622822"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/1250622794?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9781250622792?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250622792"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FUNMASKED%252FPaul%252BHoles%252F9781250622792&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DUNMASKED%252BPaul%252BHoles"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250622792&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DUNMASKED"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250622792%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DUNMASKED%2BPaul%2BHoles%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/f3189c81-154e-5a22-911b-587493620542"
-      },
-      {
-        "rank": 5,
-        "rank_last_week": 2,
-        "weeks_on_list": 3,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "1982153288",
-        "primary_isbn13": "9781982153281",
-        "publisher": "Simon & Schuster",
-        "description": "The author of “Red Notice” tells his story of becoming Vladimir Putin’s enemy by uncovering a $230 million tax refund scheme.",
-        "price": "0.00",
-        "title": "FREEZING ORDER",
-        "author": "Bill Browder",
-        "contributor": "by Bill Browder",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982153281.jpg",
-        "book_image_width": 329,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/1982153288?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "1982153288",
-            "isbn13": "9781982153281"
-          },
-          {
-            "isbn10": "1982153334",
-            "isbn13": "9781982153335"
-          },
-          {
-            "isbn10": "1980087717",
-            "isbn13": "9781980087717"
-          },
-          {
-            "isbn10": "1980087237",
-            "isbn13": "9781980087236"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/1982153288?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9781982153281?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982153281"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFREEZING%252BORDER%252FBill%252BBrowder%252F9781982153281&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFREEZING%252BORDER%252BBill%252BBrowder"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781982153281&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFREEZING%2BORDER"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781982153281%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFREEZING%2BORDER%2BBill%2BBrowder%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/7cab0a7f-a133-57b6-8587-e8008eb9fc37"
-      },
-      {
-        "rank": 6,
-        "rank_last_week": 0,
-        "weeks_on_list": 1,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "0062981595",
-        "primary_isbn13": "9780062981592",
-        "publisher": "Harper",
-        "description": "A collection of comedic essays on motherhood and middle age by the Emmy Award-winning writer and producer.",
-        "price": "0.00",
-        "title": "I'LL SHOW MYSELF OUT",
-        "author": "Jessi Klein",
-        "contributor": "by Jessi Klein",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780062981592.jpg",
-        "book_image_width": 331,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/0062981595?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "0062981595",
-            "isbn13": "9780062981592"
-          },
-          {
-            "isbn10": "0062981617",
-            "isbn13": "9780062981615"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/0062981595?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9780062981592?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062981592"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FI%252527LL%252BSHOW%252BMYSELF%252BOUT%252FJessi%252BKlein%252F9780062981592&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DI%252527LL%252BSHOW%252BMYSELF%252BOUT%252BJessi%252BKlein"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780062981592&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DI%2527LL%2BSHOW%2BMYSELF%2BOUT"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780062981592%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DI%2527LL%2BSHOW%2BMYSELF%2BOUT%2BJessi%2BKlein%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/2683576c-404f-50e5-a984-2da4f0b565cc"
-      },
-      {
-        "rank": 7,
-        "rank_last_week": 7,
-        "weeks_on_list": 37,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "1571313567",
-        "primary_isbn13": "9781571313560",
-        "publisher": "Milkweed Editions",
-        "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
-        "price": "0.00",
-        "title": "BRAIDING SWEETGRASS",
-        "author": "Robin Wall Kimmerer",
-        "contributor": "by Robin Wall Kimmerer",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
-        "book_image_width": 321,
-        "book_image_height": 495,
-        "amazon_product_url": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "1571313567",
-            "isbn13": "9781571313560"
-          },
-          {
-            "isbn10": "1515975908",
-            "isbn13": "9781515975908"
-          },
-          {
-            "isbn10": "1571318712",
-            "isbn13": "9781571318718"
-          },
-          {
-            "isbn10": "1571311777",
-            "isbn13": "9781571311771"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781571313560"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBRAIDING%252BSWEETGRASS%252FRobin%252BWall%252BKimmerer%252F9781571313560&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBRAIDING%252BSWEETGRASS%252BRobin%252BWall%252BKimmerer"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781571313560&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBRAIDING%2BSWEETGRASS"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781571313560%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBRAIDING%2BSWEETGRASS%2BRobin%2BWall%2BKimmerer%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79"
-      },
-      {
-        "rank": 8,
-        "rank_last_week": 0,
-        "weeks_on_list": 1,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "1637580665",
-        "primary_isbn13": "9781637580660",
-        "publisher": "Post Hill",
-        "description": "A memoir by the pro wrestler and Fox News political commentator.",
-        "price": "0.00",
-        "title": "JUST TYRUS",
-        "author": "Tyrus",
-        "contributor": "by Tyrus",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781637580660.jpg",
-        "book_image_width": 336,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/1637580665?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "1637580665",
-            "isbn13": "9781637580660"
-          },
-          {
-            "isbn10": "1637580673",
-            "isbn13": "9781637580677"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/1637580665?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9781637580660?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781637580660"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FJUST%252BTYRUS%252FTyrus%252F9781637580660&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DJUST%252BTYRUS%252BTyrus"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781637580660&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DJUST%2BTYRUS"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781637580660%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DJUST%2BTYRUS%2BTyrus%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/2ac454f6-d557-566c-b1a6-1b38a4bfdd03"
-      },
-      {
-        "rank": 9,
-        "rank_last_week": 0,
-        "weeks_on_list": 1,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "1400078997",
-        "primary_isbn13": "9781400078998",
-        "publisher": "Anchor",
-        "description": "Two brothers who subscribed to a fundamentalist version of Mormonism killed a woman and her daughter; the basis of the TV series.",
-        "price": "0.00",
-        "title": "UNDER THE BANNER OF HEAVEN",
-        "author": "Jon Krakauer",
-        "contributor": "by Jon Krakauer",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781400032808.jpg",
-        "book_image_width": 323,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/1400032806?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "https://www.nytimes.com/2003/08/03/books/thou-shalt-kill.html",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "1400032806",
-            "isbn13": "9781400032808"
-          },
-          {
-            "isbn10": "1400078997",
-            "isbn13": "9781400078998"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/1400032806?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9781400078998?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781400078998"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FUNDER%252BTHE%252BBANNER%252BOF%252BHEAVEN%252FJon%252BKrakauer%252F9781400078998&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DUNDER%252BTHE%252BBANNER%252BOF%252BHEAVEN%252BJon%252BKrakauer"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781400078998&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DUNDER%2BTHE%2BBANNER%2BOF%2BHEAVEN"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781400078998%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DUNDER%2BTHE%2BBANNER%2BOF%2BHEAVEN%2BJon%2BKrakauer%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/8dd3f2e1-2fc8-5da2-9647-95cb2c0d902e"
-      },
-      {
-        "rank": 10,
-        "rank_last_week": 0,
-        "weeks_on_list": 1,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "0063162024",
-        "primary_isbn13": "9780063162020",
-        "publisher": "Broadside",
-        "description": "An associate editor of The Spectator and Fox News contributor makes his arguments against anti-Western rhetoric.",
-        "price": "0.00",
-        "title": "THE WAR ON THE WEST",
-        "author": "Douglas Murray",
-        "contributor": "by Douglas Murray",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063162020.jpg",
-        "book_image_width": 331,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/0063162024?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "0063162024",
-            "isbn13": "9780063162020"
-          },
-          {
-            "isbn10": "0063162040",
-            "isbn13": "9780063162044"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/0063162024?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9780063162020?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063162020"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BWAR%252BON%252BTHE%252BWEST%252FDouglas%252BMurray%252F9780063162020&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BWAR%252BON%252BTHE%252BWEST%252BDouglas%252BMurray"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063162020&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BWAR%2BON%2BTHE%2BWEST"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063162020%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BWAR%2BON%2BTHE%2BWEST%2BDouglas%2BMurray%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/9c756634-1047-537f-8ed5-4ae52b859888"
-      },
-      {
-        "rank": 11,
-        "rank_last_week": 6,
-        "weeks_on_list": 31,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "0525657746",
-        "primary_isbn13": "9780525657743",
-        "publisher": "Knopf",
-        "description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
-        "price": "0.00",
-        "title": "CRYING IN H MART",
-        "author": "Michelle Zauner",
-        "contributor": "by Michelle Zauner",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
-        "book_image_width": 338,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "0525657746",
-            "isbn13": "9780525657743"
-          },
-          {
-            "isbn10": "0525657754",
-            "isbn13": "9780525657750"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9780525657743?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525657743"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FCRYING%252BIN%252BH%252BMART%252FMichelle%252BZauner%252F9780525657743&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DCRYING%252BIN%252BH%252BMART%252BMichelle%252BZauner"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780525657743&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DCRYING%2BIN%2BH%2BMART"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780525657743%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DCRYING%2BIN%2BH%2BMART%2BMichelle%2BZauner%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/606c842e-51e5-5ec6-826f-8c9104617ab8"
-      },
-      {
-        "rank": 12,
-        "rank_last_week": 4,
-        "weeks_on_list": 3,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "0063056232",
-        "primary_isbn13": "9780063056237",
-        "publisher": "Ecco",
-        "description": "The comedic actor shares stories of family tragedy and her years as a star of “Saturday Night Live.”",
-        "price": "0.00",
-        "title": "HELLO, MOLLY!",
-        "author": "Molly Shannon with Sean Wilsey",
-        "contributor": "by Molly Shannon with Sean Wilsey",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063056237.jpg",
-        "book_image_width": 331,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/0063056232?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "0063056232",
-            "isbn13": "9780063056237"
-          },
-          {
-            "isbn10": "0063056267",
-            "isbn13": "9780063056268"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/0063056232?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9780063056237?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063056237"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FHELLO%25252C%252BMOLLY%252521%252FMolly%252BShannon%252Bwith%252BSean%252BWilsey%252F9780063056237&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DHELLO%25252C%252BMOLLY%252521%252BMolly%252BShannon%252Bwith%252BSean%252BWilsey"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063056237&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DHELLO%252C%2BMOLLY%2521"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063056237%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DHELLO%252C%2BMOLLY%2521%2BMolly%2BShannon%2Bwith%2BSean%2BWilsey%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/890264da-7062-5a54-83d9-8f1964b6a20e"
-      },
-      {
-        "rank": 13,
-        "rank_last_week": 0,
-        "weeks_on_list": 1,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "125022585X",
-        "primary_isbn13": "9781250225856",
-        "publisher": "Holt",
-        "description": "A collection of comedic stories by the writer and producer best known for his work on “Family Guy.”",
-        "price": "0.00",
-        "title": "START WITHOUT ME",
-        "author": "Gary Janetti",
-        "contributor": "by Gary Janetti",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250225856.jpg",
-        "book_image_width": 321,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/125022585X?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "125022585X",
-            "isbn13": "9781250225856"
-          },
-          {
-            "isbn10": "1250757096",
-            "isbn13": "9781250757098"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/125022585X?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9781250225856?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250225856"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSTART%252BWITHOUT%252BME%252FGary%252BJanetti%252F9781250225856&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSTART%252BWITHOUT%252BME%252BGary%252BJanetti"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250225856&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DSTART%2BWITHOUT%2BME"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250225856%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSTART%2BWITHOUT%2BME%2BGary%2BJanetti%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/880b9550-c111-5f3f-882e-95f903a63fc4"
-      },
-      {
-        "rank": 14,
-        "rank_last_week": 15,
-        "weeks_on_list": 7,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "059319148X",
-        "primary_isbn13": "9780593191484",
-        "publisher": "Portfolio",
-        "description": "A columnist for The Atlantic espouses ways to shift priorities and habits to overcome waning abilities in later life.",
-        "price": "0.00",
-        "title": "FROM STRENGTH TO STRENGTH",
-        "author": "Arthur C. Brooks",
-        "contributor": "by Arthur C. Brooks",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593191484.jpg",
-        "book_image_width": 330,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/059319148X?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "059319148X",
-            "isbn13": "9780593191484"
-          },
-          {
-            "isbn10": "0593191498",
-            "isbn13": "9780593191491"
-          },
-          {
-            "isbn10": "0593457358",
-            "isbn13": "9780593457351"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/059319148X?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9780593191484?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593191484"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFROM%252BSTRENGTH%252BTO%252BSTRENGTH%252FArthur%252BC.%252BBrooks%252F9780593191484&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFROM%252BSTRENGTH%252BTO%252BSTRENGTH%252BArthur%252BC.%252BBrooks"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593191484&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFROM%2BSTRENGTH%2BTO%2BSTRENGTH"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593191484%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFROM%2BSTRENGTH%2BTO%2BSTRENGTH%2BArthur%2BC.%2BBrooks%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/036735f5-f655-5fcb-bddc-4a7648bfeaf6"
-      },
-      {
-        "rank": 15,
-        "rank_last_week": 3,
-        "weeks_on_list": 2,
-        "asterisk": 0,
-        "dagger": 0,
-        "primary_isbn10": "125027625X",
-        "primary_isbn13": "9781250276254",
-        "publisher": "St. Martin's",
-        "description": "A memoir by the three-time Emmy-nominated comedian known for his online musical and political satires.",
-        "price": "0.00",
-        "title": "PLAYING WITH MYSELF",
-        "author": "Randy Rainbow",
-        "contributor": "by Randy Rainbow",
-        "contributor_note": "",
-        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250276254.jpg",
-        "book_image_width": 329,
-        "book_image_height": 500,
-        "amazon_product_url": "https://www.amazon.com/dp/125027625X?tag=NYTBSREV-20",
-        "age_group": "",
-        "book_review_link": "",
-        "first_chapter_link": "",
-        "sunday_review_link": "",
-        "article_chapter_link": "",
-        "isbns": [
-          {
-            "isbn10": "None",
-            "isbn13": "9780143177289"
-          },
-          {
-            "isbn10": "125027625X",
-            "isbn13": "9781250276254"
-          },
-          {
-            "isbn10": "1250276268",
-            "isbn13": "9781250276261"
-          }
-        ],
-        "buy_links": [
-          {
-            "name": "Amazon",
-            "url": "https://www.amazon.com/dp/125027625X?tag=NYTBSREV-20"
-          },
-          {
-            "name": "Apple Books",
-            "url": "https://goto.applebooks.apple/9781250276254?at=10lIEQ"
-          },
-          {
-            "name": "Barnes and Noble",
-            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250276254"
-          },
-          {
-            "name": "Books-A-Million",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FPLAYING%252BWITH%252BMYSELF%252FRandy%252BRainbow%252F9781250276254&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DPLAYING%252BWITH%252BMYSELF%252BRandy%252BRainbow"
-          },
-          {
-            "name": "Bookshop",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250276254&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DPLAYING%2BWITH%2BMYSELF"
-          },
-          {
-            "name": "IndieBound",
-            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250276254%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DPLAYING%2BWITH%2BMYSELF%2BRandy%2BRainbow%26aff%3DNYT"
-          }
-        ],
-        "book_uri": "nyt://book/200c300b-8cd0-50f7-98d9-91562d1ec47b"
-      }
-    
+{
+	"books": [{
+			"rank": 1,
+			"rank_last_week": 0,
+			"weeks_on_list": 1,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "0063037327",
+			"primary_isbn13": "9780063037328",
+			"publisher": "HarperOne",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"price": "0.00",
+			"title": "FINDING ME",
+			"author": "Viola Davis",
+			"contributor": "by Viola Davis",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"book_image_width": 331,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/0063037327?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "0063037327",
+					"isbn13": "9780063037328"
+				},
+				{
+					"isbn10": "0063037335",
+					"isbn13": "9780063037335"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/0063037327?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9780063037328?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063037328"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFINDING%252BME%252FViola%252BDavis%252F9780063037328&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFINDING%252BME%252BViola%252BDavis"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063037328&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFINDING%2BME"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063037328%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFINDING%2BME%2BViola%2BDavis%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/ffe47bbb-a766-5337-9268-4480e3c9e4b9"
+		},
+		{
+			"rank": 2,
+			"rank_last_week": 0,
+			"weeks_on_list": 1,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "0593138090",
+			"primary_isbn13": "9780593138090",
+			"publisher": "Crown",
+			"description": "This follow-up to “The Diana Chronicles” details how the royal family reinvented itself after the death of Princess Diana.",
+			"price": "0.00",
+			"title": "THE PALACE PAPERS",
+			"author": "Tina Brown",
+			"contributor": "by Tina Brown",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9780593138090.jpg",
+			"book_image_width": 329,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/0593138090?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "0593138090",
+					"isbn13": "9780593138090"
+				},
+				{
+					"isbn10": "0593138104",
+					"isbn13": "9780593138106"
+				},
+				{
+					"isbn10": "0593608658",
+					"isbn13": "9780593608654"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/0593138090?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9780593138090?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593138090"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BPALACE%252BPAPERS%252FTina%252BBrown%252F9780593138090&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BPALACE%252BPAPERS%252BTina%252BBrown"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593138090&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BPALACE%2BPAPERS"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593138090%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BPALACE%2BPAPERS%2BTina%2BBrown%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/00df1009-e6a5-5bd9-b180-351a709b35d4"
+		},
+		{
+			"rank": 3,
+			"rank_last_week": 1,
+			"weeks_on_list": 88,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "0143127748",
+			"primary_isbn13": "9780143127741",
+			"publisher": "Penguin",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"price": "0.00",
+			"title": "THE BODY KEEPS THE SCORE",
+			"author": "Bessel van der Kolk",
+			"contributor": "by Bessel van der Kolk",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"book_image_width": 128,
+			"book_image_height": 193,
+			"amazon_product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "https://www.nytimes.com/2018/10/18/books/review/how-to-rewire-your-traumatized-brain.html",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "0670785938",
+					"isbn13": "9780670785933"
+				},
+				{
+					"isbn10": "0143127748",
+					"isbn13": "9780143127741"
+				},
+				{
+					"isbn10": "1469092352",
+					"isbn13": "9781469092355"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127741"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252FBessel%252Bvan%252Bder%252BKolk%252F9780143127741&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252BBessel%252Bvan%252Bder%252BKolk"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780143127741&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780143127741%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2BBessel%2Bvan%2Bder%2BKolk%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e"
+		},
+		{
+			"rank": 4,
+			"rank_last_week": 0,
+			"weeks_on_list": 1,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "1250622794",
+			"primary_isbn13": "9781250622792",
+			"publisher": "Celadon",
+			"description": "A memoir by a former cold case investigator who worked on several notable cases, including the identification of the Golden State Killer.",
+			"price": "0.00",
+			"title": "UNMASKED",
+			"author": "Paul Holes",
+			"contributor": "by Paul Holes",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9781250622792.jpg",
+			"book_image_width": 336,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/1250622794?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "1250622794",
+					"isbn13": "9781250622792"
+				},
+				{
+					"isbn10": "1250622824",
+					"isbn13": "9781250622822"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/1250622794?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9781250622792?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250622792"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FUNMASKED%252FPaul%252BHoles%252F9781250622792&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DUNMASKED%252BPaul%252BHoles"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250622792&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DUNMASKED"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250622792%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DUNMASKED%2BPaul%2BHoles%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/f3189c81-154e-5a22-911b-587493620542"
+		},
+		{
+			"rank": 5,
+			"rank_last_week": 2,
+			"weeks_on_list": 3,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "1982153288",
+			"primary_isbn13": "9781982153281",
+			"publisher": "Simon & Schuster",
+			"description": "The author of “Red Notice” tells his story of becoming Vladimir Putin’s enemy by uncovering a $230 million tax refund scheme.",
+			"price": "0.00",
+			"title": "FREEZING ORDER",
+			"author": "Bill Browder",
+			"contributor": "by Bill Browder",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9781982153281.jpg",
+			"book_image_width": 329,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/1982153288?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "1982153288",
+					"isbn13": "9781982153281"
+				},
+				{
+					"isbn10": "1982153334",
+					"isbn13": "9781982153335"
+				},
+				{
+					"isbn10": "1980087717",
+					"isbn13": "9781980087717"
+				},
+				{
+					"isbn10": "1980087237",
+					"isbn13": "9781980087236"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/1982153288?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9781982153281?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982153281"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFREEZING%252BORDER%252FBill%252BBrowder%252F9781982153281&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFREEZING%252BORDER%252BBill%252BBrowder"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781982153281&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFREEZING%2BORDER"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781982153281%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFREEZING%2BORDER%2BBill%2BBrowder%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/7cab0a7f-a133-57b6-8587-e8008eb9fc37"
+		},
+		{
+			"rank": 6,
+			"rank_last_week": 0,
+			"weeks_on_list": 1,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "0062981595",
+			"primary_isbn13": "9780062981592",
+			"publisher": "Harper",
+			"description": "A collection of comedic essays on motherhood and middle age by the Emmy Award-winning writer and producer.",
+			"price": "0.00",
+			"title": "I'LL SHOW MYSELF OUT",
+			"author": "Jessi Klein",
+			"contributor": "by Jessi Klein",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9780062981592.jpg",
+			"book_image_width": 331,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/0062981595?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "0062981595",
+					"isbn13": "9780062981592"
+				},
+				{
+					"isbn10": "0062981617",
+					"isbn13": "9780062981615"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/0062981595?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9780062981592?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062981592"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FI%252527LL%252BSHOW%252BMYSELF%252BOUT%252FJessi%252BKlein%252F9780062981592&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DI%252527LL%252BSHOW%252BMYSELF%252BOUT%252BJessi%252BKlein"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780062981592&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DI%2527LL%2BSHOW%2BMYSELF%2BOUT"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780062981592%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DI%2527LL%2BSHOW%2BMYSELF%2BOUT%2BJessi%2BKlein%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/2683576c-404f-50e5-a984-2da4f0b565cc"
+		},
+		{
+			"rank": 7,
+			"rank_last_week": 7,
+			"weeks_on_list": 37,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "1571313567",
+			"primary_isbn13": "9781571313560",
+			"publisher": "Milkweed Editions",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"price": "0.00",
+			"title": "BRAIDING SWEETGRASS",
+			"author": "Robin Wall Kimmerer",
+			"contributor": "by Robin Wall Kimmerer",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"book_image_width": 321,
+			"book_image_height": 495,
+			"amazon_product_url": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "1571313567",
+					"isbn13": "9781571313560"
+				},
+				{
+					"isbn10": "1515975908",
+					"isbn13": "9781515975908"
+				},
+				{
+					"isbn10": "1571318712",
+					"isbn13": "9781571318718"
+				},
+				{
+					"isbn10": "1571311777",
+					"isbn13": "9781571311771"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781571313560"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBRAIDING%252BSWEETGRASS%252FRobin%252BWall%252BKimmerer%252F9781571313560&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBRAIDING%252BSWEETGRASS%252BRobin%252BWall%252BKimmerer"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781571313560&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBRAIDING%2BSWEETGRASS"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781571313560%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBRAIDING%2BSWEETGRASS%2BRobin%2BWall%2BKimmerer%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79"
+		},
+		{
+			"rank": 8,
+			"rank_last_week": 0,
+			"weeks_on_list": 1,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "1637580665",
+			"primary_isbn13": "9781637580660",
+			"publisher": "Post Hill",
+			"description": "A memoir by the pro wrestler and Fox News political commentator.",
+			"price": "0.00",
+			"title": "JUST TYRUS",
+			"author": "Tyrus",
+			"contributor": "by Tyrus",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9781637580660.jpg",
+			"book_image_width": 336,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/1637580665?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "1637580665",
+					"isbn13": "9781637580660"
+				},
+				{
+					"isbn10": "1637580673",
+					"isbn13": "9781637580677"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/1637580665?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9781637580660?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781637580660"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FJUST%252BTYRUS%252FTyrus%252F9781637580660&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DJUST%252BTYRUS%252BTyrus"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781637580660&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DJUST%2BTYRUS"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781637580660%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DJUST%2BTYRUS%2BTyrus%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/2ac454f6-d557-566c-b1a6-1b38a4bfdd03"
+		},
+		{
+			"rank": 9,
+			"rank_last_week": 0,
+			"weeks_on_list": 1,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "1400078997",
+			"primary_isbn13": "9781400078998",
+			"publisher": "Anchor",
+			"description": "Two brothers who subscribed to a fundamentalist version of Mormonism killed a woman and her daughter; the basis of the TV series.",
+			"price": "0.00",
+			"title": "UNDER THE BANNER OF HEAVEN",
+			"author": "Jon Krakauer",
+			"contributor": "by Jon Krakauer",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9781400032808.jpg",
+			"book_image_width": 323,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/1400032806?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "https://www.nytimes.com/2003/08/03/books/thou-shalt-kill.html",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "1400032806",
+					"isbn13": "9781400032808"
+				},
+				{
+					"isbn10": "1400078997",
+					"isbn13": "9781400078998"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/1400032806?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9781400078998?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781400078998"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FUNDER%252BTHE%252BBANNER%252BOF%252BHEAVEN%252FJon%252BKrakauer%252F9781400078998&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DUNDER%252BTHE%252BBANNER%252BOF%252BHEAVEN%252BJon%252BKrakauer"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781400078998&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DUNDER%2BTHE%2BBANNER%2BOF%2BHEAVEN"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781400078998%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DUNDER%2BTHE%2BBANNER%2BOF%2BHEAVEN%2BJon%2BKrakauer%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/8dd3f2e1-2fc8-5da2-9647-95cb2c0d902e"
+		},
+		{
+			"rank": 10,
+			"rank_last_week": 0,
+			"weeks_on_list": 1,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "0063162024",
+			"primary_isbn13": "9780063162020",
+			"publisher": "Broadside",
+			"description": "An associate editor of The Spectator and Fox News contributor makes his arguments against anti-Western rhetoric.",
+			"price": "0.00",
+			"title": "THE WAR ON THE WEST",
+			"author": "Douglas Murray",
+			"contributor": "by Douglas Murray",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9780063162020.jpg",
+			"book_image_width": 331,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/0063162024?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "0063162024",
+					"isbn13": "9780063162020"
+				},
+				{
+					"isbn10": "0063162040",
+					"isbn13": "9780063162044"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/0063162024?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9780063162020?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063162020"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BWAR%252BON%252BTHE%252BWEST%252FDouglas%252BMurray%252F9780063162020&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BWAR%252BON%252BTHE%252BWEST%252BDouglas%252BMurray"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063162020&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BWAR%2BON%2BTHE%2BWEST"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063162020%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BWAR%2BON%2BTHE%2BWEST%2BDouglas%2BMurray%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/9c756634-1047-537f-8ed5-4ae52b859888"
+		},
+		{
+			"rank": 11,
+			"rank_last_week": 6,
+			"weeks_on_list": 31,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "0525657746",
+			"primary_isbn13": "9780525657743",
+			"publisher": "Knopf",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"price": "0.00",
+			"title": "CRYING IN H MART",
+			"author": "Michelle Zauner",
+			"contributor": "by Michelle Zauner",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"book_image_width": 338,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "0525657746",
+					"isbn13": "9780525657743"
+				},
+				{
+					"isbn10": "0525657754",
+					"isbn13": "9780525657750"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9780525657743?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525657743"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FCRYING%252BIN%252BH%252BMART%252FMichelle%252BZauner%252F9780525657743&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DCRYING%252BIN%252BH%252BMART%252BMichelle%252BZauner"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780525657743&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DCRYING%2BIN%2BH%2BMART"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780525657743%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DCRYING%2BIN%2BH%2BMART%2BMichelle%2BZauner%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/606c842e-51e5-5ec6-826f-8c9104617ab8"
+		},
+		{
+			"rank": 12,
+			"rank_last_week": 4,
+			"weeks_on_list": 3,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "0063056232",
+			"primary_isbn13": "9780063056237",
+			"publisher": "Ecco",
+			"description": "The comedic actor shares stories of family tragedy and her years as a star of “Saturday Night Live.”",
+			"price": "0.00",
+			"title": "HELLO, MOLLY!",
+			"author": "Molly Shannon with Sean Wilsey",
+			"contributor": "by Molly Shannon with Sean Wilsey",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9780063056237.jpg",
+			"book_image_width": 331,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/0063056232?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "0063056232",
+					"isbn13": "9780063056237"
+				},
+				{
+					"isbn10": "0063056267",
+					"isbn13": "9780063056268"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/0063056232?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9780063056237?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063056237"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FHELLO%25252C%252BMOLLY%252521%252FMolly%252BShannon%252Bwith%252BSean%252BWilsey%252F9780063056237&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DHELLO%25252C%252BMOLLY%252521%252BMolly%252BShannon%252Bwith%252BSean%252BWilsey"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063056237&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DHELLO%252C%2BMOLLY%2521"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063056237%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DHELLO%252C%2BMOLLY%2521%2BMolly%2BShannon%2Bwith%2BSean%2BWilsey%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/890264da-7062-5a54-83d9-8f1964b6a20e"
+		},
+		{
+			"rank": 13,
+			"rank_last_week": 0,
+			"weeks_on_list": 1,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "125022585X",
+			"primary_isbn13": "9781250225856",
+			"publisher": "Holt",
+			"description": "A collection of comedic stories by the writer and producer best known for his work on “Family Guy.”",
+			"price": "0.00",
+			"title": "START WITHOUT ME",
+			"author": "Gary Janetti",
+			"contributor": "by Gary Janetti",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9781250225856.jpg",
+			"book_image_width": 321,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/125022585X?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "125022585X",
+					"isbn13": "9781250225856"
+				},
+				{
+					"isbn10": "1250757096",
+					"isbn13": "9781250757098"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/125022585X?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9781250225856?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250225856"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSTART%252BWITHOUT%252BME%252FGary%252BJanetti%252F9781250225856&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSTART%252BWITHOUT%252BME%252BGary%252BJanetti"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250225856&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DSTART%2BWITHOUT%2BME"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250225856%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSTART%2BWITHOUT%2BME%2BGary%2BJanetti%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/880b9550-c111-5f3f-882e-95f903a63fc4"
+		},
+		{
+			"rank": 14,
+			"rank_last_week": 15,
+			"weeks_on_list": 7,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "059319148X",
+			"primary_isbn13": "9780593191484",
+			"publisher": "Portfolio",
+			"description": "A columnist for The Atlantic espouses ways to shift priorities and habits to overcome waning abilities in later life.",
+			"price": "0.00",
+			"title": "FROM STRENGTH TO STRENGTH",
+			"author": "Arthur C. Brooks",
+			"contributor": "by Arthur C. Brooks",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9780593191484.jpg",
+			"book_image_width": 330,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/059319148X?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "059319148X",
+					"isbn13": "9780593191484"
+				},
+				{
+					"isbn10": "0593191498",
+					"isbn13": "9780593191491"
+				},
+				{
+					"isbn10": "0593457358",
+					"isbn13": "9780593457351"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/059319148X?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9780593191484?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593191484"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFROM%252BSTRENGTH%252BTO%252BSTRENGTH%252FArthur%252BC.%252BBrooks%252F9780593191484&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFROM%252BSTRENGTH%252BTO%252BSTRENGTH%252BArthur%252BC.%252BBrooks"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593191484&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFROM%2BSTRENGTH%2BTO%2BSTRENGTH"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593191484%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFROM%2BSTRENGTH%2BTO%2BSTRENGTH%2BArthur%2BC.%2BBrooks%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/036735f5-f655-5fcb-bddc-4a7648bfeaf6"
+		},
+		{
+			"rank": 15,
+			"rank_last_week": 3,
+			"weeks_on_list": 2,
+			"asterisk": 0,
+			"dagger": 0,
+			"primary_isbn10": "125027625X",
+			"primary_isbn13": "9781250276254",
+			"publisher": "St. Martin's",
+			"description": "A memoir by the three-time Emmy-nominated comedian known for his online musical and political satires.",
+			"price": "0.00",
+			"title": "PLAYING WITH MYSELF",
+			"author": "Randy Rainbow",
+			"contributor": "by Randy Rainbow",
+			"contributor_note": "",
+			"book_image": "https://storage.googleapis.com/du-prd/books/images/9781250276254.jpg",
+			"book_image_width": 329,
+			"book_image_height": 500,
+			"amazon_product_url": "https://www.amazon.com/dp/125027625X?tag=NYTBSREV-20",
+			"age_group": "",
+			"book_review_link": "",
+			"first_chapter_link": "",
+			"sunday_review_link": "",
+			"article_chapter_link": "",
+			"isbns": [{
+					"isbn10": "None",
+					"isbn13": "9780143177289"
+				},
+				{
+					"isbn10": "125027625X",
+					"isbn13": "9781250276254"
+				},
+				{
+					"isbn10": "1250276268",
+					"isbn13": "9781250276261"
+				}
+			],
+			"buy_links": [{
+					"name": "Amazon",
+					"url": "https://www.amazon.com/dp/125027625X?tag=NYTBSREV-20"
+				},
+				{
+					"name": "Apple Books",
+					"url": "https://goto.applebooks.apple/9781250276254?at=10lIEQ"
+				},
+				{
+					"name": "Barnes and Noble",
+					"url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250276254"
+				},
+				{
+					"name": "Books-A-Million",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FPLAYING%252BWITH%252BMYSELF%252FRandy%252BRainbow%252F9781250276254&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DPLAYING%252BWITH%252BMYSELF%252BRandy%252BRainbow"
+				},
+				{
+					"name": "Bookshop",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250276254&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DPLAYING%2BWITH%2BMYSELF"
+				},
+				{
+					"name": "IndieBound",
+					"url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250276254%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DPLAYING%2BWITH%2BMYSELF%2BRandy%2BRainbow%26aff%3DNYT"
+				}
+			],
+			"book_uri": "nyt://book/200c300b-8cd0-50f7-98d9-91562d1ec47b"
+		}
+	]
+}
